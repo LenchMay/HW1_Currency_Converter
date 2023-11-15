@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Конвертер валлют</string>
+    <string name="convert">Конвертировать</string>
+    <string name="defaultRub">0.0</string>
+
+    <string-array name="currencyName">
+        <item>Доллар</item>
+        <item>Евро</item>
+        <item>Иена</item>
+        <item>Вона</item>
+    </string-array>
+</resources>
